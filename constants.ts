@@ -1,0 +1,2 @@
+
+export const DEMO_TEXT = `Welcom to our AI Writing Asistant! Ths tool is design to help you improving your writing by catchin grammer mistakes, style issues, and suggesting clearner phrasing. Just type or past your text into this editor, and then click the 'Check Text' button. Our AI will analyze you're text and provide helpful sugestion in the sidebar on the right. Its like having a personal editor availble 24/7. We think you will find it very usefull for every kind of writing, from emails to essays. Lets get start!`;

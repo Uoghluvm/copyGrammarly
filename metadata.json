@@ -1,0 +1,5 @@
+{
+  "name": "AI Writing Assistant",
+  "description": "An AI-powered writing assistant, inspired by Grammarly, that checks your text for grammar, style, and clarity using the Gemini API. It features a sleek blue-purple gradient theme with semi-transparent elements.",
+  "requestFramePermissions": []
+}
